@@ -23,12 +23,6 @@
       "text": "exercise",
       "date": "while watching tv",
       "reminder": true
-    },
-    {
-      "text": "war",
-      "date": "gogo",
-      "reminder": true,
-      "id": 5
     }
   ]
 }
